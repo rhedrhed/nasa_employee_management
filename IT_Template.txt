@@ -3,3 +3,8 @@ Employee ID:
 Role: 
 Email: 
 Phone: 
+System Access:
+- Email system
+- Internal network
+- Helpdesk tools
+- Admin panels
