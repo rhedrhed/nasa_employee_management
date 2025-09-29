@@ -1,0 +1,15 @@
+Name: 
+Employee ID: 
+Role: 
+Email: 
+Phone: 
+Department:
+Shifts:
+- Monday to Friday: 9:00 AM - 5:00 PM
+- Lunch Break: 12:30 PM - 1:30 PM
+# Admin Department Procedures
+
+1. Approve leave requests in a timely manner.
+2. Maintain payroll and attendance records.
+3. Schedule meetings and prepare reports.
+4. Ensure compliance with company policies.
