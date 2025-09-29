@@ -1,0 +1,16 @@
+Name: 
+Employee ID: 
+Role: 
+Email: 
+Phone: 
+System Access:
+- Email system
+- Internal network
+- Helpdesk tools
+- Admin panels
+# IT Department Procedures
+
+1. Handle support tickets within 24 hours.
+2. Maintain hardware inventory.
+3. Update software and patch systems weekly.
+4. Document changes to IT systems.
